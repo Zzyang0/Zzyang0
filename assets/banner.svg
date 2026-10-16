@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="Tzuyang Lin, also known as Frank. Data analyst and field deployment engineer.">
+<defs>
+  <style>
+    text { font-family: Consolas, "SF Mono", Menlo, "Courier New", monospace; }
+    .conn { fill: #3ee6e0; font-size: 14px; letter-spacing: 1px; }
+    .conn b { fill: #f4e04d; font-weight: 700; }
+    .name { font-size: 78px; font-weight: 800; letter-spacing: 6px; }
+    .aka { fill: #f4e04d; font-size: 26px; font-weight: 700; letter-spacing: 4px; }
+    .zh { fill: #7794a0; font-size: 24px; }
+    .roles { fill: #eaf3f5; font-size: 17px; font-weight: 700; letter-spacing: 1px; }
+    .sep { fill: #ff3d8b; font-weight: 400; }
+    .tag { fill: #9db6bf; font-size: 16px; }
+    .sign { font-size: 13px; font-weight: 700; letter-spacing: 2px; }
+    .win { fill: #f4e04d; animation: tw 3.4s ease-in-out infinite; }
+    .win2 { fill: #3ee6e0; animation: tw 4.2s ease-in-out infinite; }
+    .win3 { fill: #ff3d8b; animation: tw 5s ease-in-out infinite; }
+    @keyframes tw { 0%, 100% { opacity: .15; } 50% { opacity: .95; } }
+    .g1 { animation: gl1 5s steps(1) infinite; }
+    .g2 { animation: gl2 5s steps(1) infinite; }
+    @keyframes gl1 { 0%, 90%, 100% { transform: translate(0, 0); opacity: 0; } 91% { transform: translate(5px, -2px); opacity: .75; } 94% { transform: translate(-4px, 1px); opacity: .75; } }
+    @keyframes gl2 { 0%, 86%, 100% { transform: translate(0, 0); opacity: 0; } 87% { transform: translate(-5px, 2px); opacity: .75; } 92% { transform: translate(4px, -1px); opacity: .75; } }
+    .cur { animation: blink 1s steps(1) infinite; fill: #3ee6e0; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .sg { animation: flick 6s steps(1) infinite; }
+    @keyframes flick { 0%, 100% { opacity: 1; } 47% { opacity: 1; } 48% { opacity: .35; } 50% { opacity: 1; } 51% { opacity: .5; } 52% { opacity: 1; } }
+  </style>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#050a0e"/><stop offset=".6" stop-color="#08171d"/><stop offset="1" stop-color="#0d2a30"/>
+  </linearGradient>
+  <linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#aef6f1"/></linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#05080b" stop-opacity=".92"/><stop offset=".55" stop-color="#05080b" stop-opacity=".45"/><stop offset="1" stop-color="#05080b" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="rgba(120,220,230,.045)"/></pattern>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="rgba(255,255,255,.035)"/></pattern>
+  <pattern id="rain1" width="90" height="140" patternUnits="userSpaceOnUse" patternTransform="rotate(8)">
+    <path d="M10 6v26M44 60v22M70 20v30M26 100v28M80 110v20" stroke="#9fdfe6" stroke-opacity=".34" stroke-width="1"/>
+    <animateTransform attributeName="patternTransform" type="translate" additive="sum" from="0 0" to="0 140" dur=".9s" repeatCount="indefinite"/>
+  </pattern>
+  <pattern id="rain2" width="130" height="190" patternUnits="userSpaceOnUse" patternTransform="rotate(8)">
+    <path d="M22 30v34M92 14v26M60 118v30M118 150v26M6 160v22" stroke="#9fdfe6" stroke-opacity=".2" stroke-width="1"/>
+    <animateTransform attributeName="patternTransform" type="translate" additive="sum" from="0 0" to="0 190" dur="1.5s" repeatCount="indefinite"/>
+  </pattern>
+  <pattern id="wins" width="10" height="12" patternUnits="userSpaceOnUse"><rect x="2" y="3" width="3" height="4" fill="#f4e04d" opacity=".5"/></pattern>
+  <filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="1.4"/></filter>
+  <clipPath id="type"><rect x="60" y="298" width="0" height="30"><animate attributeName="width" values="0;380;380" keyTimes="0;.28;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+
+<!-- sky + grid -->
+<rect width="1280" height="400" fill="url(#sky)"/>
+<rect width="1280" height="400" fill="url(#grid)"/>
+<ellipse cx="960" cy="150" rx="420" ry="170" fill="#3ee6e0" opacity=".07" filter="url(#soft)"/>
+<ellipse cx="1120" cy="260" rx="260" ry="120" fill="#ff3d8b" opacity=".07" filter="url(#soft)"/>
+
+<!-- far skyline -->
+<g fill="#0a1a20">
+  <rect x="520" y="230" width="46" height="170"/><rect x="574" y="190" width="38" height="210"/><rect x="620" y="250" width="54" height="150"/>
+  <rect x="690" y="170" width="44" height="230"/><rect x="742" y="214" width="60" height="186"/><rect x="812" y="150" width="40" height="250"/>
+  <rect x="860" y="200" width="52" height="200"/><rect x="920" y="120" width="46" height="280"/><rect x="974" y="188" width="58" height="212"/>
+  <rect x="1040" y="140" width="42" height="260"/><rect x="1090" y="204" width="60" height="196"/><rect x="1158" y="110" width="48" height="290"/><rect x="1214" y="176" width="66" height="224"/>
+</g>
+<!-- windows -->
+<g fill="url(#wins)" opacity=".9">
+  <rect x="574" y="190" width="38" height="210"/><rect x="690" y="170" width="44" height="230"/><rect x="812" y="150" width="40" height="250"/>
+  <rect x="920" y="120" width="46" height="280"/><rect x="1040" y="140" width="42" height="260"/><rect x="1158" y="110" width="48" height="290"/>
+</g>
+<g>
+  <rect class="win" x="702" y="196" width="3" height="4"/><rect class="win2" x="716" y="240" width="3" height="4"/><rect class="win3" x="826" y="180" width="3" height="4"/>
+  <rect class="win" x="934" y="150" width="3" height="4"/><rect class="win2" x="948" y="230" width="3" height="4"/><rect class="win3" x="1054" y="176" width="3" height="4"/>
+  <rect class="win" x="1172" y="140" width="3" height="4"/><rect class="win2" x="1186" y="214" width="3" height="4"/><rect class="win3" x="588" y="224" width="3" height="4"/>
+  <rect class="win2" x="1228" y="210" width="3" height="4"/><rect class="win" x="760" y="244" width="3" height="4"/><rect class="win3" x="884" y="236" width="3" height="4"/>
+</g>
+<!-- antenna lights -->
+<g fill="#ff2a2a"><circle cx="943" cy="116" r="2.2" class="win"/><circle cx="1182" cy="106" r="2.2" class="win2"/><circle cx="832" cy="146" r="2.2" class="win3"/></g>
+
+<!-- neon signs: the cities -->
+<g class="sg">
+  <g transform="translate(1000,62) rotate(-4)" filter="url(#glow)"><rect width="150" height="32" rx="3" fill="#05080b" fill-opacity=".8" stroke="#ff3d8b" stroke-width="2"/><text x="75" y="21" text-anchor="middle" class="sign" fill="#ff3d8b">CHANGHUA 彰化</text></g>
+  <g transform="translate(1088,118) rotate(3)" filter="url(#glow)"><rect width="140" height="32" rx="3" fill="#05080b" fill-opacity=".8" stroke="#3ee6e0" stroke-width="2"/><text x="70" y="21" text-anchor="middle" class="sign" fill="#3ee6e0">SEATTLE 西雅图</text></g>
+  <g transform="translate(780,92) rotate(2)" filter="url(#glow)"><rect width="128" height="32" rx="3" fill="#05080b" fill-opacity=".8" stroke="#f4e04d" stroke-width="2"/><text x="64" y="21" text-anchor="middle" class="sign" fill="#f4e04d">SHANGHAI 上海</text></g>
+  <g transform="translate(868,176) rotate(-3)" filter="url(#glow)"><rect width="124" height="32" rx="3" fill="#05080b" fill-opacity=".8" stroke="#3ee6e0" stroke-width="2"/><text x="62" y="21" text-anchor="middle" class="sign" fill="#3ee6e0">NINGBO 宁波</text></g>
+  <g transform="translate(1100,204) rotate(2)" filter="url(#glow)"><rect width="150" height="32" rx="3" fill="#05080b" fill-opacity=".8" stroke="#ff3d8b" stroke-width="2"/><text x="75" y="21" text-anchor="middle" class="sign" fill="#ff3d8b">NEW YORK 纽约</text></g>
+</g>
+
+<!-- near skyline -->
+<g fill="#050b0f">
+  <rect x="1180" y="250" width="100" height="150"/><rect x="1100" y="290" width="86" height="110"/><rect x="980" y="270" width="110" height="130"/>
+  <rect x="860" y="310" width="110" height="90"/><rect x="740" y="296" width="110" height="104"/><rect x="620" y="330" width="110" height="70"/>
+</g>
+<rect x="0" y="372" width="1280" height="28" fill="#03070a"/>
+<path d="M0 372H1280" stroke="#3ee6e0" stroke-opacity=".35"/>
+
+<!-- rain -->
+<rect width="1280" height="400" fill="url(#rain2)"/>
+<rect width="1280" height="400" fill="url(#rain1)"/>
+
+<!-- left fade so text stays readable -->
+<rect width="1280" height="400" fill="url(#fade)"/>
+<rect width="1280" height="400" fill="url(#scan)"/>
+
+<!-- text -->
+<text x="60" y="66" class="conn">&gt; CONNECTED TO <tspan class="conn" fill="#f4e04d" font-weight="700">lin.frank@frank.db</tspan></text>
+<g filter="url(#glow)">
+  <text x="60" y="152" class="name g1" fill="#ff3d8b">TZUYANG LIN</text>
+  <text x="60" y="152" class="name g2" fill="#3ee6e0">TZUYANG LIN</text>
+  <text x="60" y="152" class="name" fill="url(#nm)">TZUYANG LIN</text>
+</g>
+<text x="62" y="196" class="aka">AKA FRANK <tspan class="zh" dx="14" letter-spacing="0">林子洋</tspan></text>
+<text x="62" y="248" class="roles">Data Analyst <tspan class="sep">//</tspan> Field Deployment Engineer <tspan class="sep">//</tspan> Tech Explorer</text>
+<text x="62" y="274" class="roles">R&amp;B Lover <tspan class="sep">//</tspan> Foodie <tspan class="sep">//</tspan> Cookholic</text>
+<g clip-path="url(#type)"><text x="62" y="320" class="tag">Data earns its value by serving people.</text></g>
+<rect class="cur" x="372" y="305" width="9" height="18"><animate attributeName="x" values="62;436;436" keyTimes="0;.28;1" dur="9s" repeatCount="indefinite"/></rect>
+</svg>
