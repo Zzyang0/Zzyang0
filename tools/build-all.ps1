@@ -1,0 +1,2 @@
+# Regenerates every pixel image except the heatmap (that one is refreshed daily by the GitHub Action).
+foreach ($s in "make-banner", "make-card", "make-world", "make-ui") { & (Join-Path $PSScriptRoot "$s.ps1") }

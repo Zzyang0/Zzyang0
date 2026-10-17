@@ -1,160 +1,45 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Tzuyang Lin (Frank): data analyst and field deployment engineer">
+<img src="assets/banner.svg" width="100%" alt="Pixel-art Shanghai at dusk. Tzuyang Lin, aka Frank: data analyst, field deployment engineer, cookholic and R&B lover.">
+
+<a href="https://zzyang0.github.io"><img src="assets/b-site.svg" width="23%" alt="Portfolio: zzyang0.github.io"></a>
+<a href="https://www.linkedin.com/in/tzuyang-frank-lin-982b56225/"><img src="assets/b-linkedin.svg" width="23%" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/zzyang0528/"><img src="assets/b-insta.svg" width="23%" alt="Instagram @zzyang0528"></a>
+<a href="mailto:franklin532232@gmail.com"><img src="assets/b-mail.svg" width="23%" alt="Email"></a>
+
+</div>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-zzyang0.github.io-3ee6e0?style=for-the-badge&labelColor=05080b)](https://zzyang0.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-4aa3ff?style=for-the-badge&labelColor=05080b&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tzuyang-frank-lin-982b56225/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@zzyang0528-ff5fa2?style=for-the-badge&labelColor=05080b&logo=instagram&logoColor=white)](https://www.instagram.com/zzyang0528/)
-[![Email](https://img.shields.io/badge/EMAIL-say%20hi-f4e04d?style=for-the-badge&labelColor=05080b&logo=gmail&logoColor=white)](mailto:franklin532232@gmail.com)
+Hi, I'm **Frank** (Tzuyang Lin, 林子洋). I like taking messy, real-world data and turning it into something people can actually use: ETL pipelines, dashboards and analysis for clean-energy and carbon-removal teams, and now factory-floor systems for the semiconductor industry.
+Based in **Shanghai** · UC Berkeley M.Analytics '25 · UW Econ + Informatics '24 · joining **LaserTech** as a Field Deployment Engineer in late October 2026.
+Outside work: cooking, R&B, and trying every new tool I can find.
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="assets/h-stats.svg" width="100%" alt="Player stats">
+<img src="assets/stats.svg" width="100%" alt="Skill levels, inventory of tools, and what I am learning right now: Linux, FAB, MAE, EAP, HPC and TCP/IP">
+<img src="assets/sidequests.svg" width="100%" alt="Side quests: cooking, R and B music, travel, tinkering with new tools">
 
-</div>
+<img src="assets/h-world.svg" width="100%" alt="Overworld">
+<img src="assets/world.svg" width="100%" alt="Pixel map of the places I have lived: Changhua, Ningbo, Seattle, Berkeley, New York and Shanghai">
 
-## `> whoami`
-
-```sql
-frank.db=# SELECT * FROM frank;
-+-----------+-----------------------------------------------------------+
-| name      | Tzuyang (Frank) Lin                                       |
-| role      | Data Analyst -> Field Deployment Engineer                 |
-| based_in  | Shanghai, CN                                              |
-| studied   | UC Berkeley (M. Analytics '25), UW (B.A. Econ + Info '24) |
-| next      | LaserTech, Shanghai (starts late Oct 2026)                |
-| languages | English, Chinese                                          |
-| motto     | Data earns its value by serving people.                   |
-+-----------+-----------------------------------------------------------+
--- 7 rows in set (0.00 sec)
-```
-
-I like taking messy, real-world data and turning it into something people can actually use: ETL pipelines, dashboards and analysis for clean-energy and carbon-removal teams, and now factory-floor systems for the semiconductor industry. Outside work: **cooking**, **R&B**, and trying every new tool I can find.
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-## `> footprints`
-
-<div align="center">
-<img src="assets/footprints.svg" width="100%" alt="Map of the places I have lived: Changhua, Ningbo, Seattle, Berkeley, New York and Shanghai">
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-## `> now_learning`
-
-<div align="center">
-<img src="assets/learning.svg" width="100%" alt="Currently learning: Linux, FAB, MAE, EAP, HPC and TCP/IP">
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-## `> toolbox`
+<img src="assets/h-quests.svg" width="100%" alt="Quest log: featured projects">
 
 <table>
 <tr>
-<td valign="top" width="33%">
-
-**Languages**<br><br>
-![Python](https://img.shields.io/badge/Python-3ee6e0?style=flat-square&logo=python&logoColor=white&labelColor=05080b)
-![SQL](https://img.shields.io/badge/SQL-f4e04d?style=flat-square&logo=postgresql&logoColor=white&labelColor=05080b)
-![R](https://img.shields.io/badge/R-4aa3ff?style=flat-square&logo=r&logoColor=white&labelColor=05080b)
-![JavaScript](https://img.shields.io/badge/JavaScript-f4e04d?style=flat-square&logo=javascript&logoColor=white&labelColor=05080b)
-![HTML](https://img.shields.io/badge/HTML%20%2F%20CSS-ff5fa2?style=flat-square&logo=html5&logoColor=white&labelColor=05080b)
-
-</td>
-<td valign="top" width="33%">
-
-**Analytics &amp; BI**<br><br>
-![Pandas](https://img.shields.io/badge/Pandas-3ee6e0?style=flat-square&logo=pandas&logoColor=white&labelColor=05080b)
-![NumPy](https://img.shields.io/badge/NumPy-4aa3ff?style=flat-square&logo=numpy&logoColor=white&labelColor=05080b)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-f4e04d?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=05080b)
-![Tableau](https://img.shields.io/badge/Tableau-ff5fa2?style=flat-square&logo=tableau&logoColor=white&labelColor=05080b)
-![Streamlit](https://img.shields.io/badge/Streamlit-ff3d8b?style=flat-square&logo=streamlit&logoColor=white&labelColor=05080b)
-
-</td>
-<td valign="top" width="33%">
-
-**Data &amp; systems**<br><br>
-![MySQL](https://img.shields.io/badge/MySQL-4aa3ff?style=flat-square&logo=mysql&logoColor=white&labelColor=05080b)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-3ee6e0?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=05080b)
-![ETL](https://img.shields.io/badge/ETL%20pipelines-f4e04d?style=flat-square&labelColor=05080b)
-![Git](https://img.shields.io/badge/Git-ff5fa2?style=flat-square&logo=git&logoColor=white&labelColor=05080b)
-![Linux](https://img.shields.io/badge/Linux-3ee6e0?style=flat-square&logo=linux&logoColor=white&labelColor=05080b)
-
-</td>
+<td width="33%" valign="top"><a href="https://github.com/Zzyang0/Zzyang0.github.io"><img src="assets/q1.svg" width="100%" alt="FRANK.DB: this portfolio, built like a database"></a></td>
+<td width="33%" valign="top"><a href="https://github.com/Zzyang0/MassSave_Project"><img src="assets/q2.svg" width="100%" alt="Mass Save research: 15 years of Massachusetts energy-efficiency data"></a></td>
+<td width="33%" valign="top"><a href="https://github.com/Zzyang0/Takachar_kobo_sharepoint_pipeline"><img src="assets/q3.svg" width="100%" alt="Kobo to SharePoint pipeline"></a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Zzyang0/AccentRecognition"><img src="assets/q4.svg" width="100%" alt="AccentRecognition: wav2vec2 accent classifier"></a></td>
+<td valign="top"><a href="https://github.com/Zzyang0/ML-PROJECT-Predictive-Modeling-and-Clustering-for-Chronic-Disease-Risk"><img src="assets/q5.svg" width="100%" alt="Chronic disease risk: predictive modeling and clustering on NHANES"></a></td>
+<td valign="top"><a href="https://github.com/Zzyang0/Covid_19_analysis---Python"><img src="assets/q6.svg" width="100%" alt="COVID-19 analysis with Plotly, Dash and Tableau"></a></td>
 </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<img src="assets/h-log.svg" width="100%" alt="Contributions">
+<img src="assets/heatmap.svg" width="100%" alt="My GitHub contributions as a pixel crop field, with a star on the day each project started">
 
-## `> featured_projects`
+<img src="assets/outro.svg" width="100%" alt="Thanks for playing. Data earns its value by serving people.">
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### [FRANK.DB](https://github.com/Zzyang0/Zzyang0.github.io)
-This portfolio, built like a database: 3D neon city, footprints globe, SQL console, EN / 中文.<br>
-`JavaScript` `Three.js`
-
-</td>
-<td valign="top" width="33%">
-
-### [Mass Save research](https://github.com/Zzyang0/MassSave_Project)
-15 years of Massachusetts energy-efficiency data: cost-to-deliver, heat-pump adoption, retrofit funnel.<br>
-`Python` `Pandas`
-
-</td>
-<td valign="top" width="33%">
-
-### [Kobo → SharePoint pipeline](https://github.com/Zzyang0/Takachar_kobo_sharepoint_pipeline)
-Streams field media straight into SharePoint with incremental uploads and duplicate detection.<br>
-`Python` `Microsoft Graph`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### [AccentRecognition](https://github.com/Zzyang0/AccentRecognition)
-Fine-tuned wav2vec2 on 167K+ clips to tell 11 English accents apart, with a Flask demo.<br>
-`PyTorch` `Flask`
-
-</td>
-<td valign="top">
-
-### [Chronic disease risk](https://github.com/Zzyang0/ML-PROJECT-Predictive-Modeling-and-Clustering-for-Chronic-Disease-Risk)
-Predictive modeling and clustering on NHANES survey data (Berkeley ML team project).<br>
-`scikit-learn` `Jupyter`
-
-</td>
-<td valign="top">
-
-### [COVID-19 analysis](https://github.com/Zzyang0/Covid_19_analysis---Python)
-Vaccination, cases and deaths worldwide, with interactive Plotly / Dash charts and a Tableau workbook.<br>
-`Python` `Plotly` `Tableau`
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-## `> contributions`
-
-<div align="center">
-<img src="assets/heatmap.svg" width="100%" alt="My GitHub contribution heatmap, with a diamond on the day each project started">
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-<div align="center">
-
-**Data earns its value by serving people.**
-
-[zzyang0.github.io](https://zzyang0.github.io) · [LinkedIn](https://www.linkedin.com/in/tzuyang-frank-lin-982b56225/) · [Instagram](https://www.instagram.com/zzyang0528/) · franklin532232@gmail.com
-
-<sub>Banner, map and heatmap are hand-built SVGs (no external services). The heatmap refreshes itself every day with GitHub Actions.</sub>
-
-</div>
+<div align="center"><sub>Every image here is hand-built pixel-art SVG (no external services). The crop field refreshes itself daily with GitHub Actions. Say hi: <a href="mailto:franklin532232@gmail.com">franklin532232@gmail.com</a></sub></div>
