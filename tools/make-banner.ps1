@@ -85,10 +85,27 @@ Ad (Rc 0 $G $W 24 "#0a0e15")
 Ad (Rc 0 $G $W 1 "#2a3345")
 A "<g mask=`"url(#m)`">$($art.ToString())</g>"
 
-# the little cook on the rooftop (signature)
-$chef = @("......wwww......", "....wwwwwwww....", "...wwwwwwwwww...", "...wwwwwwwwww...", "....xxxxxxxx....", "....hhhhhhhh....", "...phhhhhhhhp...", "..qqssssssssqq..", ("..qq" + "sesssses" + "qq.."), "..qqssssssssqq..", "...p.ssmmss.p...", ".....yyyyyy.....", "...jjjjaajjjj...", "..jjjjjaajjjjj..", "..sjjjjaajjjjs..", "...jjjjaajjjj...", "....bbbbbbbb....", "....bbb..bbb....", "...kkkk..kkkk...")
-$cmap = @{ w = "#f4f1ea"; x = "#cfc9bd"; h = "#2a1a3a"; p = "#ff6f91"; q = "#c23b72"; s = "#f6c9a6"; e = "#1a1333"; m = "#b4504d"; y = "#e0a57c"; j = "#6aa8d8"; a = "#f4f1ea"; b = "#33406a"; k = "#0a0e15" }
-A "<g><g>$(PxSprite $chef $cmap 668 ($G - 19 * 2.6 + 1) 2.6)<animateTransform attributeName=`"transform`" type=`"translate`" values=`"0 0;0 -2.6;0 0`" dur=`"1.6s`" repeatCount=`"indefinite`" calcMode=`"discrete`"/></g></g>"
+# the cool one on the rooftop: shades, headphones, hoodie, smirk, tossing something in a pan (signature)
+$cool = @(
+  "...h..hh..h.....", "..hhhhhhhhhh....", ".hhhhhhhhhhhh...", ".phhihhhhihhhp..", ".pphsssssssshpp.",
+  ".qpkkkksskkkkpq.", ".pqkkkksskkkkqp.", "..yssssssssssy..", "...ssssmmsssss..", "....yssssssy....",
+  ".....yyyyyy.....", "...jjjwwwwjjj...", "..jjjjwjjwjjjj..", ".jjjjjjjjjjjjj..", ".jjajjjjjjjjjj..",
+  ".jjjjjjjjjjjjs..", ".jjjjjjjjjjjjj..", ".tjjjjjjjjjjjt..", "..bbbbbbbbbbbb..", "..bbbbb..bbbbb..",
+  "..bbbbb..bbbbb..", "..bbbbb..bbbbb..", ".nnnnnn..nnnnnn.", ".rrrrrr..rrrrrr."
+)
+$cmap = @{ h = "#1a1424"; i = "#3a2f58"; s = "#f2c29c"; y = "#d99b74"; k = "#06080d"; p = "#ffb454"; q = "#a8742f"; j = "#2c3858"; t = "#1c2540"; w = "#e9eef7"; a = "#ffb454"; m = "#8a3b3b"; b = "#222a40"; n = "#eef1f7"; r = "#ffb454" }
+$pan = @(".....gggggggg.", "tttttfffffffff", ".....ffffffff.", "......ffffff..")
+$pmap = @{ g = "#7b849a"; f = "#3b4256"; t = "#8a5a32" }
+$cx = 652; $cy = $G - 24 * 3; $pxs = $cx + 13 * 3; $pys = $cy + 15 * 3 + 2
+$flame = ""
+foreach ($k in 0..2) {
+  $fx = $pxs + 24 + $k * 9; $col = @("#ff7a3d", "#ffd36b", "#ff7a3d")[$k]; $b = - $k * 0.23
+  $flame += "<rect x=`"$fx`" y=`"$($pys - 8)`" width=`"4`" height=`"6`" fill=`"$col`"><animate attributeName=`"height`" values=`"3;8;3`" dur=`"0.7s`" begin=`"${b}s`" repeatCount=`"indefinite`"/><animate attributeName=`"y`" values=`"$($pys - 5);$($pys - 10);$($pys - 5)`" dur=`"0.7s`" begin=`"${b}s`" repeatCount=`"indefinite`"/></rect>"
+}
+$toss = "<rect x=`"$($pxs + 30)`" y=`"$($pys - 10)`" width=`"5`" height=`"5`" fill=`"#7fe3b8`"><animate attributeName=`"y`" values=`"$($pys - 8);$($pys - 40);$($pys - 8)`" keyTimes=`"0;.5;1`" calcMode=`"spline`" keySplines=`".3 0 .6 1;.4 0 .7 1`" dur=`"1.6s`" repeatCount=`"indefinite`"/></rect>"
+$glint = "<rect x=`"$($cx + 4 * 3)`" y=`"$($cy + 5 * 3)`" width=`"3`" height=`"3`" fill=`"#ffffff`" opacity=`"0`"><animate attributeName=`"opacity`" values=`"0;0;1;0;0`" keyTimes=`"0;.5;.55;.62;1`" dur=`"3.4s`" repeatCount=`"indefinite`"/></rect><rect x=`"$($cx + 10 * 3)`" y=`"$($cy + 6 * 3)`" width=`"3`" height=`"3`" fill=`"#ffffff`" opacity=`"0`"><animate attributeName=`"opacity`" values=`"0;0;1;0;0`" keyTimes=`"0;.52;.57;.64;1`" dur=`"3.4s`" repeatCount=`"indefinite`"/></rect>"
+$bob = "<animateTransform attributeName=`"transform`" type=`"translate`" values=`"0 0;0 -3;0 0`" dur=`"1.2s`" repeatCount=`"indefinite`" calcMode=`"discrete`"/>"
+A "<g>$(PxSprite $cool $cmap $cx $cy 3)$(PxSprite $pan $pmap $pxs $pys 3)$glint$flame$toss$bob</g>"
 
 # ---------- left: text ----------
 A (PxText "> HELLO, WORLD" 46 40 2 $T.amber)
