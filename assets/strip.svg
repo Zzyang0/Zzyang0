@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 92" width="1000" height="92" role="img" aria-label="Four quick facts: based in Shanghai, joining LaserTech, studied at UC Berkeley and UW, focused on data and systems">
+<rect x="0.5" y="0.5" width="237" height="91" rx="12" fill="#121823" stroke="#232c3b"/>
+<text x="18" y="24" font-size="10.5" fill="#596579" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" letter-spacing="1.6">LOCATION</text>
+<g shape-rendering="crispEdges"><path d="M208 16h8v2h-8zM206 18h12v2h-12zM206 20h4v2h-4zM214 20h4v2h-4zM206 22h12v2h-12zM208 24h8v2h-8zM210 26h4v2h-4zM210 28h4v2h-4z" fill="#ffb454"/></g>
+<text x="18" y="55" font-size="16.5" fill="#f0f6fc" font-weight="600" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >Shanghai, China</text>
+<text x="18" y="75" font-size="12" fill="#8b98a9" font-weight="400" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >UTC+8</text>
+<rect x="254.5" y="0.5" width="237" height="91" rx="12" fill="#121823" stroke="#232c3b"/>
+<text x="272" y="24" font-size="10.5" fill="#596579" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" letter-spacing="1.6">NEXT</text>
+<g shape-rendering="crispEdges"><path d="M462 16h8v2h-8zM462 18h2v2h-2zM468 18h2v2h-2zM458 20h16v2h-16zM458 22h4v2h-4zM470 22h4v2h-4zM458 24h16v2h-16zM458 26h16v2h-16zM458 28h16v2h-16z" fill="#ffb454"/></g>
+<text x="272" y="55" font-size="16.5" fill="#f0f6fc" font-weight="600" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >LaserTech</text>
+<text x="272" y="75" font-size="12" fill="#8b98a9" font-weight="400" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >Field Deployment Engineer, Oct 2026</text>
+<rect x="508.5" y="0.5" width="237" height="91" rx="12" fill="#121823" stroke="#232c3b"/>
+<text x="526" y="24" font-size="10.5" fill="#596579" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" letter-spacing="1.6">EDUCATION</text>
+<g shape-rendering="crispEdges"><path d="M718 16h4v2h-4zM716 18h8v2h-8zM714 20h12v2h-12zM712 22h16v2h-16zM714 24h2v2h-2zM718 24h4v2h-4zM724 24h2v2h-2zM714 26h2v2h-2zM718 26h4v2h-4zM724 26h2v2h-2zM716 28h8v2h-8z" fill="#ffb454"/></g>
+<text x="526" y="55" font-size="16.5" fill="#f0f6fc" font-weight="600" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >UC Berkeley · UW</text>
+<text x="526" y="75" font-size="12" fill="#8b98a9" font-weight="400" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >M.Analytics '25 · B.A. Econ '24</text>
+<rect x="762.5" y="0.5" width="237" height="91" rx="12" fill="#121823" stroke="#232c3b"/>
+<text x="780" y="24" font-size="10.5" fill="#596579" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" letter-spacing="1.6">FOCUS</text>
+<g shape-rendering="crispEdges"><path d="M970 16h2v2h-2zM976 16h2v2h-2zM968 18h12v2h-12zM966 20h16v2h-16zM966 22h4v2h-4zM972 22h4v2h-4zM978 22h4v2h-4zM966 24h16v2h-16zM966 26h16v2h-16zM968 28h12v2h-12zM970 30h2v2h-2zM976 30h2v2h-2z" fill="#ffb454"/></g>
+<text x="780" y="55" font-size="16.5" fill="#f0f6fc" font-weight="600" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >Data → systems</text>
+<text x="780" y="75" font-size="12" fill="#8b98a9" font-weight="400" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >ETL, BI, semiconductor tooling</text>
+</svg>

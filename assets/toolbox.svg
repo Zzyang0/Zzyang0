@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 232" width="1000" height="232" role="img" aria-label="Toolbox: languages, analytics and BI, data and systems, plus what I am learning now">
+<rect x="0.5" y="0.5" width="999" height="231" rx="12" fill="#121823" stroke="#232c3b"/>
+<path d="M28 22h10v2h-10zM32 24h2v2h-2zM32 26h2v2h-2zM32 28h2v2h-2zM32 30h2v2h-2zM32 32h2v2h-2zM32 34h2v2h-2zM42 22h6v2h-6zM40 24h2v2h-2zM48 24h2v2h-2zM40 26h2v2h-2zM48 26h2v2h-2zM40 28h2v2h-2zM48 28h2v2h-2zM40 30h2v2h-2zM48 30h2v2h-2zM40 32h2v2h-2zM48 32h2v2h-2zM42 34h6v2h-6zM54 22h6v2h-6zM52 24h2v2h-2zM60 24h2v2h-2zM52 26h2v2h-2zM60 26h2v2h-2zM52 28h2v2h-2zM60 28h2v2h-2zM52 30h2v2h-2zM60 30h2v2h-2zM52 32h2v2h-2zM60 32h2v2h-2zM54 34h6v2h-6zM64 22h2v2h-2zM64 24h2v2h-2zM64 26h2v2h-2zM64 28h2v2h-2zM64 30h2v2h-2zM64 32h2v2h-2zM64 34h10v2h-10zM76 22h8v2h-8zM76 24h2v2h-2zM84 24h2v2h-2zM76 26h2v2h-2zM84 26h2v2h-2zM76 28h8v2h-8zM76 30h2v2h-2zM84 30h2v2h-2zM76 32h2v2h-2zM84 32h2v2h-2zM76 34h8v2h-8zM90 22h6v2h-6zM88 24h2v2h-2zM96 24h2v2h-2zM88 26h2v2h-2zM96 26h2v2h-2zM88 28h2v2h-2zM96 28h2v2h-2zM88 30h2v2h-2zM96 30h2v2h-2zM88 32h2v2h-2zM96 32h2v2h-2zM90 34h6v2h-6zM100 22h2v2h-2zM108 22h2v2h-2zM100 24h2v2h-2zM108 24h2v2h-2zM102 26h2v2h-2zM106 26h2v2h-2zM104 28h2v2h-2zM102 30h2v2h-2zM106 30h2v2h-2zM100 32h2v2h-2zM108 32h2v2h-2zM100 34h2v2h-2zM108 34h2v2h-2z" fill="#ffb454" shape-rendering="crispEdges" />
+<text x="28" y="56" font-size="10.5" fill="#596579" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" letter-spacing="1.6">LANGUAGES</text>
+<text x="28" y="92" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >Python</text>
+<rect x="216" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="227" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="238" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="249" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="260" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<text x="28" y="120" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >SQL</text>
+<rect x="216" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="227" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="238" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="249" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="260" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<text x="28" y="148" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >R</text>
+<rect x="216" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="227" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="238" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="249" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="260" y="139" width="8" height="8" fill="#222c3c" shape-rendering="crispEdges"/>
+<text x="28" y="176" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >JavaScript</text>
+<rect x="216" y="167" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="227" y="167" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="238" y="167" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="249" y="167" width="8" height="8" fill="#222c3c" shape-rendering="crispEdges"/>
+<rect x="260" y="167" width="8" height="8" fill="#222c3c" shape-rendering="crispEdges"/>
+<path d="M328 48V176" stroke="#232c3b"/>
+<text x="350" y="56" font-size="10.5" fill="#596579" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" letter-spacing="1.6">ANALYTICS &amp; BI</text>
+<text x="350" y="92" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >Pandas / NumPy</text>
+<rect x="538" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="549" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="560" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="571" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="582" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<text x="350" y="120" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >Tableau</text>
+<rect x="538" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="549" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="560" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="571" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="582" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<text x="350" y="148" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >scikit-learn</text>
+<rect x="538" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="549" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="560" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="571" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="582" y="139" width="8" height="8" fill="#222c3c" shape-rendering="crispEdges"/>
+<text x="350" y="176" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >Streamlit</text>
+<rect x="538" y="167" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="549" y="167" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="560" y="167" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="571" y="167" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="582" y="167" width="8" height="8" fill="#222c3c" shape-rendering="crispEdges"/>
+<path d="M650 48V176" stroke="#232c3b"/>
+<text x="672" y="56" font-size="10.5" fill="#596579" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" letter-spacing="1.6">DATA &amp; SYSTEMS</text>
+<text x="672" y="92" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >ETL pipelines</text>
+<rect x="860" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="871" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="882" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="893" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="904" y="83" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<text x="672" y="120" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >MySQL / Azure SQL</text>
+<rect x="860" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="871" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="882" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="893" y="111" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="904" y="111" width="8" height="8" fill="#222c3c" shape-rendering="crispEdges"/>
+<text x="672" y="148" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >Git</text>
+<rect x="860" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="871" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="882" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="893" y="139" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="904" y="139" width="8" height="8" fill="#222c3c" shape-rendering="crispEdges"/>
+<text x="672" y="176" font-size="14.5" fill="#e6edf3" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >Linux</text>
+<rect x="860" y="167" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="871" y="167" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="882" y="167" width="8" height="8" fill="#ffb454" shape-rendering="crispEdges"/>
+<rect x="893" y="167" width="8" height="8" fill="#222c3c" shape-rendering="crispEdges"/>
+<rect x="904" y="167" width="8" height="8" fill="#222c3c" shape-rendering="crispEdges"/>
+<path d="M28 196H972" stroke="#232c3b"/>
+<text x="28" y="220" font-size="10.5" fill="#596579" font-weight="500" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" letter-spacing="1.6">LEARNING NOW</text>
+<rect x="170.5" y="204.5" width="65" height="23" rx="11.5" fill="none" stroke="#2f3a4d"/><text x="192" y="217.5" font-size="12" fill="#c3cedb" font-weight="400" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >Linux</text>
+<rect x="179" y="213" width="5" height="5" fill="#ffb454" shape-rendering="crispEdges"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></rect>
+<rect x="258.5" y="204.5" width="51" height="23" rx="11.5" fill="none" stroke="#2f3a4d"/><text x="280" y="217.5" font-size="12" fill="#c3cedb" font-weight="400" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >FAB</text>
+<rect x="267" y="213" width="5" height="5" fill="#ffb454" shape-rendering="crispEdges"><animate attributeName="opacity" values="1;.25;1" dur="1.85s" repeatCount="indefinite"/></rect>
+<rect x="332.5" y="204.5" width="51" height="23" rx="11.5" fill="none" stroke="#2f3a4d"/><text x="354" y="217.5" font-size="12" fill="#c3cedb" font-weight="400" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >MAE</text>
+<rect x="341" y="213" width="5" height="5" fill="#ffb454" shape-rendering="crispEdges"><animate attributeName="opacity" values="1;.25;1" dur="2.1s" repeatCount="indefinite"/></rect>
+<rect x="406.5" y="204.5" width="51" height="23" rx="11.5" fill="none" stroke="#2f3a4d"/><text x="428" y="217.5" font-size="12" fill="#c3cedb" font-weight="400" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >EAP</text>
+<rect x="415" y="213" width="5" height="5" fill="#ffb454" shape-rendering="crispEdges"><animate attributeName="opacity" values="1;.25;1" dur="2.35s" repeatCount="indefinite"/></rect>
+<rect x="480.5" y="204.5" width="51" height="23" rx="11.5" fill="none" stroke="#2f3a4d"/><text x="502" y="217.5" font-size="12" fill="#c3cedb" font-weight="400" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >HPC</text>
+<rect x="489" y="213" width="5" height="5" fill="#ffb454" shape-rendering="crispEdges"><animate attributeName="opacity" values="1;.25;1" dur="2.6s" repeatCount="indefinite"/></rect>
+<rect x="554.5" y="204.5" width="71" height="23" rx="11.5" fill="none" stroke="#2f3a4d"/><text x="576" y="217.5" font-size="12" fill="#c3cedb" font-weight="400" text-anchor="start" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >TCP/IP</text>
+<rect x="563" y="213" width="5" height="5" fill="#ffb454" shape-rendering="crispEdges"><animate attributeName="opacity" values="1;.25;1" dur="2.85s" repeatCount="indefinite"/></rect>
+<text x="972" y="217" font-size="11.5" fill="#596579" font-weight="400" text-anchor="end" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" >semiconductor + systems</text>
+</svg>

@@ -1,28 +1,19 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Pixel-art Shanghai at dusk. Tzuyang Lin, aka Frank: data analyst, field deployment engineer, cookholic and R&B lover.">
+<img src="assets/banner.svg" width="100%" alt="Tzuyang Lin, aka Frank: data analyst heading into field deployment engineering in Shanghai. Cooking and R&B on the side.">
 
-<a href="https://zzyang0.github.io"><img src="assets/b-site.svg" width="23%" alt="Portfolio: zzyang0.github.io"></a>
-<a href="https://www.linkedin.com/in/tzuyang-frank-lin-982b56225/"><img src="assets/b-linkedin.svg" width="23%" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/zzyang0528/"><img src="assets/b-insta.svg" width="23%" alt="Instagram @zzyang0528"></a>
-<a href="mailto:franklin532232@gmail.com"><img src="assets/b-mail.svg" width="23%" alt="Email"></a>
+<a href="https://zzyang0.github.io"><img src="assets/b-site.svg" width="23.5%" alt="Portfolio: zzyang0.github.io"></a>
+<a href="https://www.linkedin.com/in/tzuyang-frank-lin-982b56225/"><img src="assets/b-linkedin.svg" width="23.5%" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/zzyang0528/"><img src="assets/b-insta.svg" width="23.5%" alt="Instagram @zzyang0528"></a>
+<a href="mailto:franklin532232@gmail.com"><img src="assets/b-mail.svg" width="23.5%" alt="Email"></a>
 
-</div>
+<img src="assets/strip.svg" width="100%" alt="Based in Shanghai. Next: LaserTech, Field Deployment Engineer, October 2026. UC Berkeley and UW. Focus: data to systems.">
 
-<br>
+<img src="assets/toolbox.svg" width="100%" alt="Toolbox. Languages: Python, SQL, R, JavaScript. Analytics and BI: Pandas, NumPy, Tableau, scikit-learn, Streamlit. Data and systems: ETL, MySQL, Azure SQL, Git, Linux. Learning now: Linux, FAB, MAE, EAP, HPC, TCP/IP.">
 
-Hi, I'm **Frank** (Tzuyang Lin, 林子洋). I like taking messy, real-world data and turning it into something people can actually use: ETL pipelines, dashboards and analysis for clean-energy and carbon-removal teams, and now factory-floor systems for the semiconductor industry.
-Based in **Shanghai** · UC Berkeley M.Analytics '25 · UW Econ + Informatics '24 · joining **LaserTech** as a Field Deployment Engineer in late October 2026.
-Outside work: cooking, R&B, and trying every new tool I can find.
+<img src="assets/world.svg" width="100%" alt="Map of the places I have lived: Changhua, Ningbo, Seattle, Berkeley, New York and Shanghai.">
 
-<img src="assets/h-stats.svg" width="100%" alt="Player stats">
-<img src="assets/stats.svg" width="100%" alt="Skill levels, inventory of tools, and what I am learning right now: Linux, FAB, MAE, EAP, HPC and TCP/IP">
-<img src="assets/sidequests.svg" width="100%" alt="Side quests: cooking, R and B music, travel, tinkering with new tools">
-
-<img src="assets/h-world.svg" width="100%" alt="Overworld">
-<img src="assets/world.svg" width="100%" alt="Pixel map of the places I have lived: Changhua, Ningbo, Seattle, Berkeley, New York and Shanghai">
-
-<img src="assets/h-quests.svg" width="100%" alt="Quest log: featured projects">
+<img src="assets/h-projects.svg" width="100%" alt="Selected work">
 
 <table>
 <tr>
@@ -37,9 +28,8 @@ Outside work: cooking, R&B, and trying every new tool I can find.
 </tr>
 </table>
 
-<img src="assets/h-log.svg" width="100%" alt="Contributions">
-<img src="assets/heatmap.svg" width="100%" alt="My GitHub contributions as a pixel crop field, with a star on the day each project started">
+<img src="assets/heatmap.svg" width="100%" alt="My GitHub contributions by year, with a marker on the day each project started">
 
-<img src="assets/outro.svg" width="100%" alt="Thanks for playing. Data earns its value by serving people.">
+<sub>Data earns its value by serving people. &nbsp;·&nbsp; <a href="mailto:franklin532232@gmail.com">franklin532232@gmail.com</a><br>All images are hand-built SVG (no external services); the contribution chart refreshes daily with GitHub Actions.</sub>
 
-<div align="center"><sub>Every image here is hand-built pixel-art SVG (no external services). The crop field refreshes itself daily with GitHub Actions. Say hi: <a href="mailto:franklin532232@gmail.com">franklin532232@gmail.com</a></sub></div>
+</div>

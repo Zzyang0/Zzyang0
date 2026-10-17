@@ -146,3 +146,27 @@ function SvgOpen([int]$w, [int]$h, [string]$label) {
   "<svg xmlns=`"http://www.w3.org/2000/svg`" xmlns:xlink=`"http://www.w3.org/1999/xlink`" viewBox=`"0 0 $w $h`" width=`"$w`" height=`"$h`" role=`"img`" aria-label=`"$label`">"
 }
 $script:MONO = 'font-family="Consolas, Menlo, ''Courier New'', monospace"'
+
+# ---------------- calm theme helpers (v2) ----------------
+$script:T = @{
+  bg = "#0d1117"; panel = "#121823"; line = "#232c3b"; line2 = "#2f3a4d"; text = "#e6edf3"; head = "#f0f6fc"; mute = "#8b98a9"; dim = "#596579"
+  amber = "#ffb454"; amber2 = "#a8742f"; land = "#1f2a3b"
+}
+$script:SANS = "-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif"
+function Esc([string]$s) { $s.Replace('&', '&amp;').Replace('<', '&lt;').Replace('>', '&gt;') }
+function Txt([string]$t, [double]$x, [double]$y, [double]$size, [string]$fill, [int]$weight = 400, [string]$anchor = "start", [string]$extra = "") {
+  "<text x=`"$(N $x)`" y=`"$(N $y)`" font-size=`"$(N $size)`" fill=`"$fill`" font-weight=`"$weight`" text-anchor=`"$anchor`" font-family=`"$($script:SANS)`" $extra>$(Esc $t)</text>"
+}
+function Card([double]$x, [double]$y, [double]$w, [double]$h, [double]$r = 12) {
+  "<rect x=`"$(N ($x + 0.5))`" y=`"$(N ($y + 0.5))`" width=`"$(N ($w - 1))`" height=`"$(N ($h - 1))`" rx=`"$r`" fill=`"$($script:T.panel)`" stroke=`"$($script:T.line)`"/>"
+}
+function Pill([double]$x, [double]$y, [string]$label, [double]$size = 12, [string]$fill = "none", [string]$stroke = "", [double]$pad = 10) {
+  if (-not $stroke) { $stroke = $script:T.line2 }
+  $w = [math]::Round($label.Length * $size * 0.56 + 10 + $pad)
+  @{ w = $w; svg = "<rect x=`"$(N ($x + 0.5))`" y=`"$(N ($y + 0.5))`" width=`"$(N ($w - 1))`" height=`"$(N ($size + 11))`" rx=`"$(N (($size + 11) / 2))`" fill=`"$fill`" stroke=`"$stroke`"/>" + (Txt $label ($x + $pad) ($y + $size + 1.5) $size "#c3cedb") }
+}
+function SaveSvg([string]$path, [string]$svg) {
+  [IO.File]::WriteAllText($path, $svg, (New-Object Text.UTF8Encoding $false))
+  $x = New-Object Xml.XmlDocument; $x.Load($path)
+  "{0,-16} {1,8:N0} bytes" -f (Split-Path $path -Leaf), (Get-Item $path).Length
+}
