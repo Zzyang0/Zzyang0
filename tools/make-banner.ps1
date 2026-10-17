@@ -108,13 +108,13 @@ $bob = "<animateTransform attributeName=`"transform`" type=`"translate`" values=
 A "<g>$(PxSprite $cool $cmap $cx $cy 3)$(PxSprite $pan $pmap $pxs $pys 3)$glint$flame$toss$bob</g>"
 
 # ---------- left: text ----------
-A (PxText "> HELLO, WORLD" 46 40 2 $T.amber)
-A "<rect x=`"$(N (46 + (PxW '> HELLO, WORLD' 2) + 8))`" y=`"40`" width=`"8`" height=`"14`" fill=`"$($T.amber)`"><animate attributeName=`"opacity`" values=`"1;0;1`" dur=`"1.1s`" calcMode=`"discrete`" repeatCount=`"indefinite`"/></rect>"
+A (PxText "> WELCOME TO MY RESORT" 46 40 2 $T.amber)
+A "<rect x=`"$(N (46 + (PxW '> WELCOME TO MY RESORT' 2) + 8))`" y=`"40`" width=`"8`" height=`"14`" fill=`"$($T.amber)`"><animate attributeName=`"opacity`" values=`"1;0;1`" dur=`"1.1s`" calcMode=`"discrete`" repeatCount=`"indefinite`"/></rect>"
 A (Txt "Tzuyang Lin" 44 116 56 $T.head 700 "start" "letter-spacing=`"-1.5`"")
 A (Txt "Frank" 46 152 21 $T.amber 600)
 A (Txt " $([char]0x00B7) $zh" 112 152 21 $T.mute 400)
 A (Txt "Data analyst turning messy data into things people use." 46 192 15.5 "#aab6c6")
-A (Txt "Now heading from dashboards to factory floors, in Shanghai." 46 214 15.5 "#aab6c6")
+A (Txt "Next: tool software and data on the semiconductor fab floor." 46 214 15.5 "#aab6c6")
 $px0 = 46
 foreach ($l in @("Data Analyst", "Field Deployment Engineer", "Cooking", "R&B")) {
   $p = Pill $px0 238 $l 12.5
